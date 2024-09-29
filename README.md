@@ -8,12 +8,8 @@ This repository contains financial and business analysis reports for various com
 
 ### Companies Analyzed
 
-1. **Eicher Motors Ltd.**
-2. **Coffee Day**
-3. **Continental Coffee Ltd. (CCL)**
-4. **CarTrade Tech Ltd.**
-5. **AU Small Finance Bank**
-6. **Capital Small Finance Bank**
+1. **Coffee Day**
+2. **Continental Coffee Ltd. (CCL)**
 
 Each analysis explores:
 - **WACC calculation** using CAPM for Cost of Equity and effective interest rate for Cost of Debt.
@@ -22,23 +18,10 @@ Each analysis explores:
 
 ## Table of Contents
 
-- [Eicher Motors Ltd. Report](#eicher-motors-ltd-report)
+
 - [Coffee Day Report](#coffee-day-report)
 - [Continental Coffee Ltd. Report](#continental-coffee-ltd-report)
-- [CarTrade Tech Ltd. Report](#cartrade-tech-ltd-report)
-- [AU Small Finance Bank Report](#au-small-finance-bank-report)
 
-## Eicher Motors Ltd. Report
-
-**Analysis Date**: September 2024
-
-- **WACC**: X%
-- **Cost of Equity (Ke)**: Y%
-- **Cost of Debt (Kd)**: Z%
-- **Market Value of Equity**: ₹ABC crore
-- **Market Value of Debt**: ₹DEF crore
-
-[Download the full report here](./eicher-motors-report.xlsx)
 
 ## Coffee Day Report
 
